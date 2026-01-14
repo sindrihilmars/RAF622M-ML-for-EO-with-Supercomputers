@@ -11,7 +11,7 @@ Welcome to the course! This module guides you through building a complete ML pip
   - Rocco Sedona (r.sedona@fz-juelich.de) - Technical Lead
   - Samy Hashim (s.hashim@fz-juelich.de) - Lab Instructor
   - Ehsan Zandi (e.zandi@fz-juelich.de)
-- **Semester:** Spring 2025-2026 (January - April)
+- **Semester:** Spring 2025-2026
 - **Modality:** Mixed in-person/online (Iceland + Germany)
 - **HPC Resources:** JURECA (JSC/Judoor account required)
 
