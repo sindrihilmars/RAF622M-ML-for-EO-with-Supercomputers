@@ -24,11 +24,11 @@ By completing this course, you will learn to:
 ├── notebooks/iceland-ml/     # Lab notebooks (work here!)
 │   ├── lab1_judoor_hpc_access.ipynb
 │   ├── lab2_jupyter_jsc_git.ipynb
-│   ├── lab3_gee_sentinel2_acquisition.ipynb
-│   ├── lab4.1_preprocessing.ipynb
-│   ├── lab4.2_preprocessing_patches.ipynb
-│   ├── lab5.1_baseline_training.ipynb
-│   ├── lab5.2_model_evaluation.ipynb
+│   ├── lab3_1_data_acquisition.ipynb
+│   ├── lab4_1_preprocessing.ipynb
+│   ├── lab4_2_preprocessing_patches.ipynb
+│   ├── lab5_1_baseline_training.ipynb
+│   ├── lab5_2_model_evaluation.ipynb
 │   └── lab6_finetune.ipynb
 ├── docs/                     # Documentation
 │   ├── iceland-ml/           # Course guides
