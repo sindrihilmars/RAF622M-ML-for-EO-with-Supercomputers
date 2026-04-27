@@ -1,6 +1,6 @@
 # TÖV606M - Machine Learning for Earth Observation powered by Supercomputers
 
-Welcome to the course repository! This repository contains all lab notebooks and materials for building a complete ML pipeline for Earth Observation using Sentinel-2 satellite imagery and HPC infrastructure.
+**Path to data inside HCP:** /p/scratch/training2600/hilmarsson1/data/training_data/Portugal_224_5labels
 
 ## 📚 Course Overview
 
